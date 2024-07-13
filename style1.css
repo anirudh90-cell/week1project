@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1415px){
+    #cone{
+     
+ width: 25.50%;
+    }
+    #milk{
+     padding-left: 14px;
+     width: 25.50%;
+    }
+    #sugar{
+     width: 23%;
+    }
+    #oranges{
+     padding-left: 14px;
+     width: 23%;
+    }
+ }
+ @media only screen and (max-width: 1348px){
+     #cone{
+         width: 25.50%;
+            }
+            #milk{
+             padding-left: 13px;
+             width: 25.50%;
+            }
+            #sugar{
+             width: 23%;
+            }
+            #oranges{
+             padding-left: 13px;
+             width: 23%;
+            }
+     #para{
+         font-size: 30px;
+     }
+     #paragraph{
+         font-size: 20px;
+     }
+     #second-line{
+         font-size: 20px;
+      }
+      #second-heading{
+         font-size: 30px;
+      }
+    #egg{
+     width: 50%;
+    }
+ }
+ 
+ @media screen and (max-width: 1285px){
+     #arrow-down{
+         position: absolute;
+         top: 300px;
+     }
+  #second-para{
+     position: relative;
+     left:20px;
+     width: 40%;
+ 
+  }   
+  #second-line{
+     font-size: 20px;
+  }
+  #second-heading{
+     font-size: 30px;
+  }
+  #cone{
+     width:26%;
+     
+     }
+     #oranges{
+         width:23%;
+         padding-left: 6px;
+     }
+     #milk{
+         width:26%;
+         padding-left: 6px;
+     }
+     #sugar{
+         width:23%;
+     }
+     .first-comment,.second-comment,.third-comment{
+         display: inline-block;
+         padding: 33px;
+         padding-top: 50px;
+         text-align: center;
+         width: 27%;
+     }
+     .comment-images{
+         width: 30%;
+     }
+     .comment-paragraph{
+         font-size: 15px;
+         color: lightslategrey;
+     }
+ }

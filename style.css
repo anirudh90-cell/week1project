@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    position: relative;
+    
+}
+#head{
+    position: absolute;
+    top: 0px;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header-link{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+}
+#about,.service, #contact, #project{
+    padding: 40px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+ #about:hover,#service:hover, #contact:hover, #project:hover{
+    background-color: rgba(255, 255 , 255, 1);
+    color: black;
+    border-radius: 50px;
+}
+#center{
+    position: absolute;
+    top:200px;
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+    color: white;
+    letter-spacing: 10px;
+}
+#arrow-down{
+    position: absolute;
+    top: 370px;
+    left:48%;
+    color: white;
+}
+.abc{  
+   position: relative;
+   top:-150px;
+    display: inline-block;
+    width: 49.50%;
+    
+}
+#egg{
+    position: relative;
+    top:-4px;
+    display: inline-block;
+    width: 50.20%;
+}
+#para{
+    padding-left: 60px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#paragraph{
+    padding-left: 60px;
+    font-size: 23px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#rose{
+    position: relative;
+    top:-12px;
+    width: 50%;
+}
+#second-para{
+    display: inline-block;
+    position: relative;
+    top:-150px;
+}
+#second-heading{
+    padding-left: 60px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#second-line{
+    padding-left: 60px;
+    font-size: 23px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#berry{
+    position: relative;
+    top: -10px;
+    display: inline-block;
+    width: 49.80%;
+}
+#orange{
+    position: relative;
+    top:-10px;
+    display: inline-block;
+    width: 49.80%;
+}
+
+.third-para{
+    position: relative;
+    top:-200px;
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    color: green;
+}
+.fourth-para{
+    position: relative;
+    top:-200px;
+    display: inline-block;
+    text-align: center;
+    width: 49.50%;
+    color:blue;
+}
+#graphic,#photography{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.graphic,.photography{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#comment-heading{
+    text-align: center;
+    color: dimgrey;
+     font-family:  'Arial Narrow Bold', sans-serif
+}
+.first-comment,.second-comment,.third-comment{
+    display: inline-block;
+    padding: 50px;
+    padding-top: 50px;
+    text-align: center;
+    width: 25%;
+}
+.comment-paragraph{
+    font-size: 20px;
+    color: lightslategrey;
+}
+.position{
+    color: lightslategray;
+}
+.name{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#cone, #oranges, #milk, #sugar{
+    padding-top: 100px;
+
+}
+#cone{
+width:26%;
+}
+#oranges{
+    width:23%;
+    padding-left: 8px;
+}
+#milk{
+    width:26%;
+    padding-left: 8px;
+}
+#sugar{
+    width:23%;
+
+}
+.bottom{
+    position: relative;
+    top:-4px;
+    background-color:cadetblue;
+    height: 300px;
+    text-align: center;
+}
+#bottom-heading{
+    padding: 30px;
+font-size: 40px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+color:teal;
+font-weight: bolder;
+letter-spacing: 2px;
+}
+#last-project, #last-service, #last-about{
+    padding: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    color: teal;
+}
+.icon{
+    position: relative;
+    top: 70px;
+    padding: 10px;
+}
